@@ -1,30 +1,32 @@
 # CPSC 2350 JupyterBook Course 
 
-This repository contains all the material for CPSC 2350 - Software Practices at Langara College for Spring 2022:
+This repository contains all the material for CIS 385 - Project Management at University of Fraser Valley for Fall 2022:
 
-> Students learn how to apply software development best practices to create the right product (validated), done right (verified), and managed right (through responsive and responsible process). They will learn the “what”, “how”, and “why” of agile practices, and the consequences for not following them, while working through the Software Development Life Cycle (SDLC) on multi-developer projects.
+> This course is designed to complement existing information technology knowledge, skills, and expe- rience with the project management skills required to effectively manage development projects that involve computer hardware, computer software, and telecommunications technology.
 
 # Website
 
-Access the website using the following link: [parsa-rajabi.github.io/cpsc-2350](https://parsa-rajabi.github.io/cpsc-2350)
+Access the website using the following link: [parsa-rajabi.github.io/cis-385](https://parsa-rajabi.github.io/cis-385)
 
 All content on this site (unless otherwise specified) is licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 # Learning Outcomes
 
-1. Describe how traditional methods relate to concepts of the Sotware Development Life-Cycle
-2. Apply agile methods to manage uncertainty and respond to change throughout the SDLC
-3. Use Object Oriented techniques and Inversion of Control to design and implement robust software
-4. Use UML to communicate design and support redesign
-5. Use Test Driven Development to quickly and confidently produce low-defect, modularized, extensible code
-6. Improve quality of existing code by refactoring supported by tests
-7. Use debugging skills to isolate and resolve defects
-8. Use continues integration to frequently deliver working software
-9. Manage change requests to ensure regular progress
-10. Flexibly capture user requirements, and convert them into SMART changes
-11. Plan short development cycles, and operate effective teams
-
-More details about the course can be found on [CPSC 2350 - Langara Academic Calendar](https://langara.ca/programs-and-courses/courses/CPSC/2350.html)
+• Assess the growing need for IT project management.
+• Describe the role of the project manager.
+• Describe the systems view of project management and how it applies to IT projects.
+• Discuss the unique attributes and diverse nature of IT projects.
+• Describe the recent trends affecting IT project management, including globalization, outsourc- ing, and virtual teams.
+• Apply different project selection methods using the strategic planning process.
+• Apply the concepts of good project scope, time, cost, quality, and risk management.
+• Discuss the process for creating a work breakdown structure.
+• Identify the tools and techniques for quality control.
+• Explain the importance of good human resource management.
+• Use effective communication skills on projects.
+• Explain the importance of managing stakeholder expectations.
+• Identify the elements involved in risk management planning and the contents of a risk manage- ment plan.
+• Assess the importance of project procurement management and the implications of the increas- ing use of outsourcing for IT projects.
+• Use Microsoft Project to help manage IT projects.
 
 # Attribution
 This course templated has been generated based on [Dr. Firas Moosvi's JupyterBook Course Template](https://github.com/firasm/jupyterbook_course_template).

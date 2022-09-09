@@ -1,7 +1,7 @@
 # Book settings
-title: CPSC 2350 
+title: CIS 385 
 author: Parsa Rajabi
-logo: images/langara-logo.png
+logo: images/ufv-logo.png
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
@@ -18,12 +18,12 @@ html:
   use_issues_button: false
   use_edit_page_button: false
   navbar_number_sections : false
-  baseurl : "https://parsa-rajabi.github.io/cpsc-2350/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://parsa-rajabi.github.io/cis-385/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
 #   google_analytics_id: G-LFY5151T35 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
     utterances:
-      repo: "Parsa-Rajabi/cpsc-2350"
+      repo: "Parsa-Rajabi/cis-385"
     dokieli: false
   extra_footer : |
       <div>
@@ -61,22 +61,22 @@ sphinx:
       PRONOUNCE: "Pa-r-sa Ra-ja-bi"
       # OFFICE: "TBD"
       # PHONE: "N/A"
-      COURSE_CODE: "CPSC 2350"
-      SECTION: "M01"
+      COURSE_CODE: "CIS 385"
+      SECTION: "AB1"
       CREDITS: "3"
-      TITLE: "Software Practices"
-      PREREQS: "A minimum B grade in CPSC 1030 and 1045."
+      TITLE: "Project Management"
+      PREREQS: "One of the following: CIS 270, CIS 291, or admission to the Data Analysis Post-degree certificate program."
       # COREQS: "N/A"
-      TERM: "2022 Spring"
-      ROOM: "A274"
-      MEETING_TIMES: "Saturdays, 1:30-3:20 pm PST"
-      GRACE_PERIOD: "48 hour"
+      TERM: "2022 Fall"
+      ROOM: "Bldg D 226"
+      MEETING_TIMES: "Fridays, 11:30-14:20 pm PST"
+      # GRACE_PERIOD: "48 hour"
       # W_DATE_1: "11:59 PDT on January 22, 2021"
       # W_DATE_2: "11:59 PDT on March 26, 2021"
       # W_DATE_3: "11:59 PDT on March 26, 2021"
-      EXAM_PERIOD: "April 8–23 2022"
-      CANVAS_ID: "222094"
-      CANVAS_LINK: "https://d2l.langara.bc.ca/d2l/home/CANVAS_ID"
+      EXAM_PERIOD: "Dec 9-20 2022"
+      CANVAS_ID: "_58342_1/"
+      CANVAS_LINK: "https://myclass.ufv.ca/ultra/courses/CANVAS_ID"
       # ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       # ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
       # COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
