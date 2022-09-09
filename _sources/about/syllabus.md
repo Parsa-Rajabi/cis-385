@@ -60,25 +60,25 @@ TBD
 
 ## Course Evaluation
 
-```{include} syllabus_bits/grading_practices_detailed.md
-```
+<!-- ```{include} syllabus_bits/grading_practices_detailed.md
+``` -->
 
 ![Grade Letters](../images/grade_letters.png)
 
 
-## Passing Criteria
+<!-- ## Passing Criteria
 
 ```{include} syllabus_bits/passing_requirement.md
-```
+``` -->
 
 ## Late Policy and Missed Assignments/Exams
 
 TBD
 
-## Tentative Course Schedule
+<!-- ## Tentative Course Schedule
 
 ```{include} syllabus_bits/schedule_topics.md
 ```
 
 ```{include} syllabus_bits/policies.md
-```
+``` -->
