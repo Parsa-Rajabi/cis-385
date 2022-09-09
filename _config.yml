@@ -69,7 +69,7 @@ sphinx:
       # COREQS: "N/A"
       TERM: "2022 Fall"
       ROOM: "Bldg D 226"
-      MEETING_TIMES: "Fridays, 11:30-14:20 pm PST"
+      MEETING_TIMES: "Fridays, 11:30-14:20 PST"
       # GRACE_PERIOD: "48 hour"
       # W_DATE_1: "11:59 PDT on January 22, 2021"
       # W_DATE_2: "11:59 PDT on March 26, 2021"
