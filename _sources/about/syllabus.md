@@ -17,24 +17,19 @@ Elements of this document are **fixed** and unchanging.
 **{{ MEETING_TIMES }}**
 
 **Mode of Delivery/Location:**  
-As [Langara's course schedule](http://swing.langara.bc.ca/prod/hzgkfcls.P_GetCrseBySubj?term=202210&subj=CPSC), this course is split into 2 lectures: 
-- 2 hour hybrid lecture in A274/Zoom
-- 2 hour online (asynchronous)
-- 2 hour hybrid lab section in A275/Zoom
-
-(Visit Brightspace for Zoom link)
-
+In-person / Building D 226 (Abbotsford)
 ---
 ## Course Instructor
 
 **Name:** {{ INSTRUCTOR }}
 
-**Email:** prajabi `[at]` langara.ca (replace `[at]` with `@`)
-Note: When emailing, please put “CPSC 2350” at the start of your subject line.
+**Email:** parsa.rajabi `[at]` ufv.ca (replace `[at]` with `@`)
+Note: When emailing, please put CIS 385” at the start of your subject line.
 
-**Slack:** @parsa
+<!-- **Slack:** @parsa -->
 
-**Office Hours:** 12:30 - 13:30pm on Saturdays - [Book a session](https://calendly.com/parsa-rajabi/cpsc-2350-office-hour) beforehand 
+**Office Hours:** TBD
+<!-- 12:30 - 13:30pm on Saturdays - [Book a session](https://calendly.com/parsa-rajabi/cpsc-2350-office-hour) beforehand  -->
 
 <!-- **Phone:** {{ PHONE }} -->
 
@@ -48,7 +43,7 @@ Note: When emailing, please put “CPSC 2350” at the start of your subject lin
 
 ## Important Dates
 
-You will find all the important term dates in the [Langara Academic Calendar](https://langara.ca/registration-and-records/important-dates/).
+You will find all the important term dates in the [UFV Academic Calendar](https://www.ufv.ca/calendar/current/).
 
 ## Learning Outcomes
 
@@ -57,11 +52,11 @@ The Learning Outcomes for this course are:
 ```{include} syllabus_bits/course_LOs.md
 ```
 
-More details about the course can be found on [CPSC 2350 - Langara Academic Calendar](https://langara.ca/programs-and-courses/courses/CPSC/2350.html)
+More details about the course can be found on [CIS 385 - UFV Academic Calendar](https://www.ufv.ca/calendar/current/CourseDescriptions/CIS.htm#:~:text=Linux%2Dbased%20system.-,CIS%20385,-3%20credits)
 
 ## Required Materials
 
-There is no requirement to purchase textbooks or any other materials for this course.
+TBD
 
 ## Course Evaluation
 
@@ -78,8 +73,7 @@ There is no requirement to purchase textbooks or any other materials for this co
 
 ## Late Policy and Missed Assignments/Exams
 
-Assignments can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours. 
-Missed project deadlines (reports, presentations, etc.), quizzes and exams will be given a score of 0 unless prior arrangements are made with the course instructor.
+TBD
 
 ## Tentative Course Schedule
 
