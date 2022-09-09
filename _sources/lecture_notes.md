@@ -1,7 +1,7 @@
 # Lecture Notes
 
 ```{warning}
-All lecture slides are password protected. Visit D2L Brightspace to get the password.
+All lecture slides are password protected. Visit Blackboard to get the password.
 ```
 
 | Wk# |  Date   |          Topic           |                                                                                                                                                                                      Lecture Notes                                                                                                                                                                                      |
