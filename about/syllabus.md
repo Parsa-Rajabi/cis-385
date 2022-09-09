@@ -17,6 +17,7 @@ Elements of this document are **fixed** and unchanging.
 **{{ MEETING_TIMES }}**
 
 **Mode of Delivery/Location:**  
+
 In-person / Building D 226 (Abbotsford)
 ---
 ## Course Instructor
