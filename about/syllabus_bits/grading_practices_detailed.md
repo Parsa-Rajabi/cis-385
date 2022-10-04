@@ -1,11 +1,12 @@
 The grading scheme for this course is:
 
-|       Item       | Weight |            Due date(s)             | Frequency |
-|:----------------:|:------:|:----------------------------------:|:---------:|
-| Check-in Quizzes |   10%  | Saturdays at 1 pm (before lecture) |  Weekly   |
-|    Assignments   |   20%  |       Saturdays at 11:59 pm        | Bi-weekly |
-|      Project     |   40%  |  [Project Page](../../project.md)  |           |
-|    Final Exam    |   30%  |             April 8–23             |     -     |
+|       Item                     | Weight |            Due date(s)             | Frequency |
+|:------------------------------:|:------:|:----------------------------------:|:---------:|
+| MIT PM Simulation              |   10%  |                                    |  On-going |
+| Weekly Activities              |   10%  | Before Class on Saturdays          |  Weekly   |
+| Quizzes                        |   20%  | As per schedule                    |  On-going |
+| Assignments                    |   30%  | As per schedule                    |  On-going |
+| Final Componenet               |   30%  | TBD                                |  Once     |
 
 <!-- ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
