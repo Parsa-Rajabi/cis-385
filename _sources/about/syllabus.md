@@ -74,11 +74,10 @@ by Adrienne Watt and Watt, Adrienne
 
 ## Course Evaluation
 
-<!-- ```{include} syllabus_bits/grading_practices_detailed.md
-``` -->
+```{include} syllabus_bits/grading_practices_detailed.md
+```
 
 ![Grade Letters](../images/grade_letters.png)
-
 
 <!-- ## Passing Criteria
 
@@ -89,10 +88,10 @@ by Adrienne Watt and Watt, Adrienne
 
 All assignments, quizzes, weekly activites and exams must be submitted/completed on their designated due dates. Failure to not meet deadlines will result in a mark of zero, except under extraodinary circumstacnes on a case-by-case basis as approved by the instructor (with valid documentation).
 
-<!-- ## Tentative Course Schedule
+## Tentative Course Schedule
 
 ```{include} syllabus_bits/schedule_topics.md
 ```
 
-```{include} syllabus_bits/policies.md
+<!-- ```{include} syllabus_bits/policies.md
 ``` -->
