@@ -56,21 +56,15 @@ More details about the course can be found on [CIS 385 - UFV Academic Calendar](
 
 ## Required Materials
 
-### Textbook A
+### Textbook A - [Link](https://www.cengage.ca/c/information-technology-project-management-9e-schwalbe/9781337101356/)
 Information Technology Project Management – 9th Edition
-
 by Kathy Schwalbe
 
 ISBN: 9781337101356
 
-[Link](https://www.cengage.ca/c/information-technology-project-management-9e-schwalbe/9781337101356/)
-
-### Textbook B
+### Textbook B - [Link](https://opentextbc.ca/projectmanagement/)
 Project Management – 2nd Edition
-
 by Adrienne Watt and Watt, Adrienne
-
-[Link](https://opentextbc.ca/projectmanagement/)
 
 ## Course Evaluation
 
