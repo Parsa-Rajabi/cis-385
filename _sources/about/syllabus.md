@@ -26,7 +26,7 @@ Elements of this document are **fixed** and unchanging. -->
 **Email:** parsa.rajabi `[at]` ufv.ca (replace `[at]` with `@`)
 Note: When emailing, please put CIS 385” at the start of your subject line.
 
-<!-- **Slack:** @parsa -->
+**Slack:** @parsa
 
 **Office Hours:** TBD
 <!-- 12:30 - 13:30pm on Saturdays - [Book a session](https://calendly.com/parsa-rajabi/cpsc-2350-office-hour) beforehand  -->
@@ -73,7 +73,7 @@ TBD
 
 ## Late Policy and Missed Assignments/Exams
 
-TBD
+All assignments, quizzes, weekly activites and exams must be submitted/completed on their designated due dates. Failure to not meet deadlines will result in a mark of zero, except under extraodinary circumstacnes on a case-by-case basis as approved by the instructor (with valid documentation).
 
 <!-- ## Tentative Course Schedule
 
