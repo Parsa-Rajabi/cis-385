@@ -1,0 +1,63 @@
+# Assignments & Quizzes Schedule
+
+
+```{tip}
+All assignments, quizzes, weekly activites and exams must be submitted/completed on their designated due dates. Failure to not meet deadlines will result in a mark of zero, except under extraodinary circumstacnes on a case-by-case basis as approved by the instructor (with valid documentation).
+```
+
+## Assignments 
+
+| Assignment Link | Due Date (11:59pm PST) |
+|:---------------:|:----------------------:|
+|      [A1]()     |         Oct 24         |
+|      [A2]()     |          Nov 7         |
+|      [A3]()     |         Nov 28         |
+
+## Quizzes
+
+| Quiz Link | Due Date (11:59pm PST) |
+|:---------:|:----------------------:|
+|   [Q1]()  |         Oct 17         |
+|   [Q2]()  |         Oct 31         |
+|   [Q3]()  |         Nov 21         |
+|   [Q4]()  |          Dec 5         |
+
+## Weekly Activites
+
+- Link to submit weekly activities: https://forms.office.com/r/x5SPawyrtk
+- Weekly activities are to be completed prior to each class at 11am
+
+| Week # | Due Date (11:00am PST) |
+|:------:|:----------------------:|
+|    1   |            -           |
+|    2   |          Oct 7         |
+|    3   |          Oct 7         |
+|    5   |         Oct 14         |
+|    6   |         Oct 21         |
+|    7   |         Oct 28         |
+|    8   |          Nov 4         |
+|    9   |         Nov 18         |
+|   11   |         Nov 25         |
+|   12   |          Dec 2         |
+|   13   |          Dec 7         |
+
+## Simulation + Reflections 
+
+Link to submit reflections: 
+
+|Scenario| Due Date (11:59pm PST) |
+|:------:|:----------------------:|
+|    A   |         Oct 14         |
+|    B   |         Oct 21         |
+|    C   |         Oct 28         |
+|    D   |          Nov 4         |
+|    E   |         Nov 10         |
+|    F   |         Nov 25         |
+|    G   |          Dec 2         |
+
+## Submission Process
+
+- All assignment and quiz submissions will made made via Blackboard.
+- Weekly activities alongside simulation reflections will be submitted via MS Forms.
+
+
