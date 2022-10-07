@@ -27,7 +27,6 @@ All assignments, quizzes, weekly activites and exams must be submitted/completed
 
 ## Weekly Activites
 
-- Link to submit weekly activities: https://forms.office.com/r/x5SPawyrtk
 - Weekly activities are to be completed prior to each class at 11am
 
 | Week # | Due Date (11:00am PST) | Link |
@@ -36,7 +35,7 @@ All assignments, quizzes, weekly activites and exams must be submitted/completed
 |    2   |          Oct 7         | [Week 2](https://forms.office.com/r/At2fhkXZLx) |
 |    3   |          Oct 7         | [Week 3](https://forms.office.com/r/D3EjFXnfzC) |
 |    5   |         Oct 14         | [Week 4](https://forms.office.com/r/kqmgzxpfCi) |
-|    6   |         Oct 21         | |
+|    6   |         Oct 21         ||
 |    7   |         Oct 28         || 
 |    8   |          Nov 4         || 
 |    9   |         Nov 18         ||
@@ -46,17 +45,17 @@ All assignments, quizzes, weekly activites and exams must be submitted/completed
 
 ## Simulation + Reflections 
 
-Link to submit reflections: 
+- Simulations and reflections are due each Friday at midnight
 
-|Scenario| Due Date (11:59pm PST) |
-|:------:|:----------------------:|
-|    A   |         Oct 14         |
-|    B   |         Oct 21         |
-|    C   |         Oct 28         |
-|    D   |          Nov 4         |
-|    E   |         Nov 10         |
-|    F   |         Nov 25         |
-|    G   |          Dec 2         |
+|Scenario| Due Date (11:59pm PST) | Link |
+|:------:|:----------------------:|:----:|
+|    A   |         Oct 14         | [Scenario A](https://forms.office.com/r/mvTYjXj9pz) |
+|    B   |         Oct 21         ||
+|    C   |         Oct 28         ||
+|    D   |          Nov 4         ||
+|    E   |         Nov 10         ||
+|    F   |         Nov 25         ||
+|    G   |          Dec 2         ||
 
 ## Submission Process
 
