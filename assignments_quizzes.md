@@ -17,7 +17,7 @@ All assignments, quizzes, weekly activites and exams must be submitted/completed
 
 | Quiz Link | Due Date (11:59pm PST) |
 |:---------:|:----------------------:|
-|   [Q1]()  |         Oct 17         |
+|   [Q1](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicm9ldXVLZTNWOVcxWXNVRzJEYTg3SDgxbUV0WXdYS0ZYQ1RxakRyUGM1ajhSWTd0cktIVmpmNVlaNTZIVTY2eHJYb0luUE1HWnlseUs0dzdJNEczZlBhWkQ1amhNQXhUcGZjWFo4Y3JXRVRDb0dVdzJib1A2NXphOGhFRHdkMFI2cEsvaHV2cTBGSDcxQWZHSkN4WElQS2tZQVZXSUdwMmNVcTFENlhZTlZjNjhjaGl6U2ZOZzRldWpGN29yaE09IiwiaSI6IlZ2WWVCRk9zK3MwWnYrY0IifQ==)  |         Oct 17         |
 |   [Q2]()  |         Oct 31         |
 |   [Q3]()  |         Nov 21         |
 |   [Q4]()  |          Dec 5         |
