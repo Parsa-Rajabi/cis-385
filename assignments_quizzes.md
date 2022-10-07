@@ -1,5 +1,8 @@
 # Assignments & Quizzes Schedule
 
+```{warning}
+All material are password protected. Visit Blackboard to get the password.
+```
 
 ```{tip}
 All assignments, quizzes, weekly activites and exams must be submitted/completed on their designated due dates. Failure to not meet deadlines will result in a mark of zero, except under extraodinary circumstacnes on a case-by-case basis as approved by the instructor (with valid documentation).
