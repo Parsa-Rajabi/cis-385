@@ -34,14 +34,14 @@ All assignments, quizzes, weekly activites and exams must be submitted/completed
 |    1   |            -           | -|
 |    2   |          Oct 7         | [Week 2](https://forms.office.com/r/At2fhkXZLx) |
 |    3   |          Oct 7         | [Week 3](https://forms.office.com/r/D3EjFXnfzC) |
-|    5   |         Oct 14         | [Week 4](https://forms.office.com/r/kqmgzxpfCi) |
-|    6   |         Oct 21         ||
-|    7   |         Oct 28         || 
-|    8   |          Nov 4         || 
-|    9   |         Nov 18         ||
-|   11   |         Nov 25         ||
-|   12   |          Dec 2         ||
-|   13   |          Dec 7         ||
+|    5   |         Oct 14         | [Week 5](https://forms.office.com/r/kqmgzxpfCi) |
+|    6   |         Oct 21         | [Week 6](https://forms.office.com/r/2j4FAVjAew) |
+|    7   |         Oct 28         | [Week 7](https://forms.office.com/r/R7yKaXUZRU) | 
+|    8   |          Nov 4         | [Week 8](https://forms.office.com/r/zAFP8BKUUv) | 
+|    9   |         Nov 18         | [Week 9](https://forms.office.com/r/UCLKdgSdbB) |
+|   11   |         Nov 25         | [Week 11](https://forms.office.com/r/aYex2qGj2j) |
+|   12   |          Dec 2         | [Week 12](https://forms.office.com/r/kpsQaw07r7) |
+|   13   |          Dec 7         | [Week 13](https://forms.office.com/r/b564NLxFi7) |
 
 ## Simulation + Reflections 
 
@@ -50,12 +50,12 @@ All assignments, quizzes, weekly activites and exams must be submitted/completed
 |Scenario| Due Date (11:59pm PST) | Link |
 |:------:|:----------------------:|:----:|
 |    A   |         Oct 14         | [Scenario A](https://forms.office.com/r/mvTYjXj9pz) |
-|    B   |         Oct 21         ||
-|    C   |         Oct 28         ||
-|    D   |          Nov 4         ||
-|    E   |         Nov 10         ||
-|    F   |         Nov 25         ||
-|    G   |          Dec 2         ||
+|    B   |         Oct 21         | [Scenario B](https://forms.office.com/r/FpmXVYy0pg) |
+|    C   |         Oct 28         | [Scenario C](https://forms.office.com/r/sdPfVvuwFu) |
+|    D   |          Nov 4         | [Scenario D](https://forms.office.com/r/wGNpp17b2b) |
+|    E   |         Nov 10         | [Scenario E](https://forms.office.com/r/wsuFJV3quW) |
+|    F   |         Nov 25         | [Scenario F](https://forms.office.com/r/rgzx86FMMJ) |
+|    G   |          Dec 2         | [Scenario G](https://forms.office.com/r/KGjLR1hUkj) |
 
 ## Submission Process
 
