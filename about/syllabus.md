@@ -80,7 +80,7 @@ by Adrienne Watt and Watt, Adrienne
 
 ## Late Policy and Missed Assignments/Exams
 
-All assignments, quizzes, weekly activites and exams must be submitted/completed on their designated due dates. Failure to not meet deadlines will result in a mark of zero, except under extraodinary circumstacnes on a case-by-case basis as approved by the instructor (with valid documentation).
+All assignments, quizzes, weekly activities and exams must be submitted/completed on their designated due dates. Failure to not meet deadlines will result in a mark of zero, except under extraordinary circumstances on a case-by-case basis as approved by the instructor (with valid documentation).
 
 ## Tentative Course Schedule
 
