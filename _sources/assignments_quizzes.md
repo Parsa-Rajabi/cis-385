@@ -12,7 +12,7 @@ All assignments, quizzes, weekly activities and exams must be submitted/complete
 
 | Assignment Link | Due Date (11:59pm PST) |
 |:---------------:|:----------------------:|
-|      [A1]()     |         Oct 24         |
+|      [A1](https://docs.google.com/document/d/e/2PACX-1vS1lkyV0hx0xxjy5O-XIPby6wF3k9K4uLMq-l4CjjTSZCxVufnkiy7iAEEu0vmit4KeTlnfhtNLT-9b/pub)     |         Oct 24         |
 |      [A2]()     |          Nov 7         |
 |      [A3]()     |         Nov 28         |
 
