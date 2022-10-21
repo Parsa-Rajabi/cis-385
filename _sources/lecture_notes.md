@@ -12,9 +12,9 @@ All lecture slides are password protected. Visit Blackboard to get the password.
 |  4  |  Sept 30 | Cancelled                                                |       -         |
 |  5  |  Oct 7 | Project Initiation                                         |   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMzIrbnYxa2RwTEt6dVZBbGZNMk5pNUZOR0VheXp2V3B6am03MFN4eTM5UmVqT2hDdzFGSHNJWFhyd0M0ci9XR3VxQU9XUjIzYWpTTU0wMVJrblpSejVBOUJaSFFOQ09DTnNlOXBNbFhDd1U2OUZ2YzU2b01PS1BkUDlCMzAzajRQa095S0FHZzNKWnZnaHJVZHJaalpIMWNZZFk9IiwiaSI6IlhTNFgzRjJDeDBCSlVZczYifQ==)    |
 |  6  |  Oct 14 | Overview of Project Planning + Scope Planning             |   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibG13eGFXdG9tRHYxWWl6allKc3QvdVpQVlJ5eTJ1R1JIQ1lOQ0pkMHo5WVBUSlJVWXNLUVhSclhveGU4NGtNQUVMRmc3bkxQMWJSV1ZDNlhoaWgyOXFQeTZ5TlFHNTJjL0k5NWdPQzlDRkNUdi9pN0QyMDNESmJ1TitvdEhySnFKUkhFQlQvd2ZSaWF6U0FlN3hJRmU2MUtZVDg9IiwiaSI6InA5Tzk5dXduMUVjcEpaMkwifQ==)    |
-|  7  |  Oct 21 | Project Schedule + Resource Planning                      |   [Slides]()    |
-|  8  |  Oct 28 | Budget + Procurement Management                           |   [Slides]()    |
-|  9  |  Nov 4 | Project Schedule Planning + Resource Planning              |   [Slides]()    |
+|  7  |  Oct 21 | Project Schedule                                          |   [Slides]()    |
+|  8  |  Oct 28 | Resource Planning + Budget                                |   [Slides]()    |
+|  9  |  Nov 4 | Quality Planning + Procurement Management                  |   [Slides]()    |
 |  10  |  Nov 11 | Cancelled                                                |       -         |
 |  11  |  Nov 18 | Risk Management Planning                                 |   [Slides]()    |
 |  12  |  Nov 25 | Project Implementation Overview                          |   [Slides]()    |
