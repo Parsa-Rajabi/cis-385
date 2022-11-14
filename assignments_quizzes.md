@@ -13,8 +13,8 @@ All assignments, quizzes, weekly activities and exams must be submitted/complete
 | Assignment Link | Due Date (11:59pm PST) |
 |:---------------:|:----------------------:|
 |      [A1](https://docs.google.com/document/d/e/2PACX-1vS1lkyV0hx0xxjy5O-XIPby6wF3k9K4uLMq-l4CjjTSZCxVufnkiy7iAEEu0vmit4KeTlnfhtNLT-9b/pub)     |         Oct 24         |
-|      [A2]()     |          TBD         |
-|      [A3]()     |         Nov 28         |
+|      [A2](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSXhpVFRUelEyQTIxUlEzMTBMaS91ZzZObjl5NXZ6VkJvL2dsb3dNZ2tSQVFhMllPWHFObzZMUzN2d0JTRk0wN3NnYTI4TGI3alJKL0ZaZ0MrOUpEMUZGaFdBcmdGMWVzZGc5UGYxdkpKMU9nUjZmTGxHYkEvTWVjTzJKNEdIdHFOVGtjQ2VJb3NMU21xcGgzVkVEUVFHenFjRVdyVmxKZEZtc1RGaG55WC80ZUw0USs2QTVzUVhPREduOUpMR3c9IiwiaSI6Im1vUHFDMUZ1VGprNEtmclgifQ==)     |          Nov 22         |
+|      [A3]()     |         TBD        |
 
 ## Quizzes
 
@@ -22,8 +22,8 @@ All assignments, quizzes, weekly activities and exams must be submitted/complete
 |:---------:|:----------------------:|
 |   [Q1](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicm9ldXVLZTNWOVcxWXNVRzJEYTg3SDgxbUV0WXdYS0ZYQ1RxakRyUGM1ajhSWTd0cktIVmpmNVlaNTZIVTY2eHJYb0luUE1HWnlseUs0dzdJNEczZlBhWkQ1amhNQXhUcGZjWFo4Y3JXRVRDb0dVdzJib1A2NXphOGhFRHdkMFI2cEsvaHV2cTBGSDcxQWZHSkN4WElQS2tZQVZXSUdwMmNVcTFENlhZTlZjNjhjaGl6U2ZOZzRldWpGN29yaE09IiwiaSI6IlZ2WWVCRk9zK3MwWnYrY0IifQ==)  |         Oct 17         |
 |   [Q2](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicHExc3hHU00zcU93cm96K21PaDBnbmJ3b0poNXUvd2tSRFY5S2FaODE3RUVGNk10cEd3dndCRC9nM1hpd01WRmFieHZFbk5xbzZxbHZxR2VrSmU0aHZ4Y0pMWVhpMURBTW52cThNaDBzQnBwdlNFSUhjb29HRHdwS1NPd0F0eUZvUzJuK2hwTnQzWUZONkJZdldEZDZGazBnZDZWZ0VQNDJvOUdJS0hMc0QwaTBhVlh5OGdxUERteHpsNVdXSVE9IiwiaSI6IjhWenJkTEdDR0ZPb0lHUVoifQ==)  |         ~~Nov 2~~  Nov 4 @ 11am       |
-|   [Q3]()  |         Nov 21         |
-|   [Q4]()  |          Dec 5         |
+|   [Q3]()  |         TBD         |
+|   [Q4]()  |          TBD         |
 
 ## Weekly Activites
 
