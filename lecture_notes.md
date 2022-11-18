@@ -16,6 +16,6 @@ All lecture slides are password protected. Visit Blackboard to get the password.
 |  8  |  Oct 28 | Resource Planning                                |   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaHNSNkZYdHRXK2haWHZ5Z1ZWd1lQYTVNOFVISDRha2RSaHFuTlRoMXRJOHcxU1E2UUR4cmFFWjhmZmdaaVdYdjM2ajdBU3lUR3B2R3V2RlZMSzJzeEt6dCtERXV4eFN0WlhNT1h3djQ1UklTT1hwUTRjUUU3WFlmSzdhMEZKZmI5QWNVSnBGOFdrNFovRm1BMjZLMmRNWTl6eHM9IiwiaSI6IlB6STV0dUw1TkZpazNCODQifQ==)    |
 |  9  |  Nov 4 | Budget Planning                   |   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidVkrOExFOEtESmxiaWlLVVJkcHV3aC93VUt1RytkdWhYcUJOaVpDMUk4Tk9mcVBRUXk1Sk11YVhvKytLV0lyL2wwcERCK29wc3pIZFY3eVFEUlpxc0tocERsL1V1TGVyOGN3UUhzYWhsS3pEM1prdjNnOTN6TlhsYzNoNjV5TVFsTDZWN1JFQjJYT1FRdzA3YmRpTTlxUlRsRWM9IiwiaSI6IkVyQWpqblF5MUtvaGFhUDQifQ==)    |
 |  10  |  Nov 11 | Cancelled                                                |       -         |
-|  11  |  Nov 18 | Procurement Management + Risk Management Planning                                 |   [Slides]()    |
-|  12  |  Nov 25 | Project Implementation Overview                          |   [Slides]()    |
-|  13  |  Dec 2 | Project Completion                                        |   [Slides]()    |
+|  11  |  Nov 18 | Procurement Management + Risk Management Planning                                 |   [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWTRSdTZnZ3ZVdHBsQVF4ZTF2NWd0MDdJTnluYWV4MWZabVVrdW1veU9SNFFLRk5LVnZMemQ1Y3RmOWZRdmRhQlJzbjJXSXVTNHFZMXNLRkFYUVJ0NDlPNGQ1U051MnUzNGxEZGtJVzQ2RlVVSWQxcGZkL1BHRW5zYUNLRkJGamV0U3plQzlKeUh5RXVlQnZCVzlvL1AvMjk5bjQ9IiwiaSI6InExN2Y3a0NzejRaSzNQWFcifQ==)    |
+|  12  |  Nov 25 |         Risk Management Planning                 |   [Slides]()    |
+|  13  |  Dec 2 | Guest Speaker + Project Implementation Overview + Completion                                        |   [Slides]()    |
