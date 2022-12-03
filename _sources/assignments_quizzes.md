@@ -14,7 +14,7 @@ All assignments, quizzes, weekly activities and exams must be submitted/complete
 |:---------------:|:----------------------:|
 |      [A1](https://docs.google.com/document/d/e/2PACX-1vS1lkyV0hx0xxjy5O-XIPby6wF3k9K4uLMq-l4CjjTSZCxVufnkiy7iAEEu0vmit4KeTlnfhtNLT-9b/pub)     |         Oct 24         |
 |      [A2](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSXhpVFRUelEyQTIxUlEzMTBMaS91ZzZObjl5NXZ6VkJvL2dsb3dNZ2tSQVFhMllPWHFObzZMUzN2d0JTRk0wN3NnYTI4TGI3alJKL0ZaZ0MrOUpEMUZGaFdBcmdGMWVzZGc5UGYxdkpKMU9nUjZmTGxHYkEvTWVjTzJKNEdIdHFOVGtjQ2VJb3NMU21xcGgzVkVEUVFHenFjRVdyVmxKZEZtc1RGaG55WC80ZUw0USs2QTVzUVhPREduOUpMR3c9IiwiaSI6Im1vUHFDMUZ1VGprNEtmclgifQ==)     |          Nov 22         |
-|      [A3](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibjVJTEthOTBMS05jZ29hL3grVzl0Q0N2QkIwb015bUR0MWZ5OEI0Q3hobFZ4Q09PbHNIWkM1S1pORDhaUG1QdHRnQnZscktUMDdHTExXUFJxVEIrWFFTZVFqZlNyUFVVWUhQakkxZU53MG9PNER2U2ZkTjNQR0lGblI5ZmFWaG9SWCtCTGs3b3RxTXNnZHNRUEUxR0c5VklGWlVsYkhONlByMXJ3TFk4VWgvZGt3VGtsNEk3b29UL1E0UDllVEE9IiwiaSI6IlJ4MUJ5VFAzMzAwMU02Sk8ifQ==)     |         Dec 5        |
+|      [A3](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibjVJTEthOTBMS05jZ29hL3grVzl0Q0N2QkIwb015bUR0MWZ5OEI0Q3hobFZ4Q09PbHNIWkM1S1pORDhaUG1QdHRnQnZscktUMDdHTExXUFJxVEIrWFFTZVFqZlNyUFVVWUhQakkxZU53MG9PNER2U2ZkTjNQR0lGblI5ZmFWaG9SWCtCTGs3b3RxTXNnZHNRUEUxR0c5VklGWlVsYkhONlByMXJ3TFk4VWgvZGt3VGtsNEk3b29UL1E0UDllVEE9IiwiaSI6IlJ4MUJ5VFAzMzAwMU02Sk8ifQ==)     |         Dec 7        |
 
 ## Quizzes
 
@@ -23,7 +23,7 @@ All assignments, quizzes, weekly activities and exams must be submitted/complete
 |   [Q1](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicm9ldXVLZTNWOVcxWXNVRzJEYTg3SDgxbUV0WXdYS0ZYQ1RxakRyUGM1ajhSWTd0cktIVmpmNVlaNTZIVTY2eHJYb0luUE1HWnlseUs0dzdJNEczZlBhWkQ1amhNQXhUcGZjWFo4Y3JXRVRDb0dVdzJib1A2NXphOGhFRHdkMFI2cEsvaHV2cTBGSDcxQWZHSkN4WElQS2tZQVZXSUdwMmNVcTFENlhZTlZjNjhjaGl6U2ZOZzRldWpGN29yaE09IiwiaSI6IlZ2WWVCRk9zK3MwWnYrY0IifQ==)  |         Oct 17         |
 |   [Q2](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicHExc3hHU00zcU93cm96K21PaDBnbmJ3b0poNXUvd2tSRFY5S2FaODE3RUVGNk10cEd3dndCRC9nM1hpd01WRmFieHZFbk5xbzZxbHZxR2VrSmU0aHZ4Y0pMWVhpMURBTW52cThNaDBzQnBwdlNFSUhjb29HRHdwS1NPd0F0eUZvUzJuK2hwTnQzWUZONkJZdldEZDZGazBnZDZWZ0VQNDJvOUdJS0hMc0QwaTBhVlh5OGdxUERteHpsNVdXSVE9IiwiaSI6IjhWenJkTEdDR0ZPb0lHUVoifQ==)  |         Nov 4 @ 11am       |
 |   [Q3](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiUzM5N3lEcEJvRklsZ2xZeTZjeEltaUxQbXNaWllSOUVQa0Fyb0RZWWZ2ejdiZlQ5d243VkNOV3pNK1hQYmZCSlN1SEp1M3BLTWw3RWhGbXc5MDVPQVF5OFdyNE9FSnBHWlNPdjJRdnhkZnJBTkp1eFdjdTRaZCtSSVJPWUNOc1dydEcxbGJlT3h3bzRHajlTZHRCTTgxRWxSYkNLclRWWmZZbEx1ckltOEtraFg2Y1N5VERTVFpxR2VFREpFTlk9IiwiaSI6Iml0VkJWQU81b1dVM2lqd2IifQ==)  |         Nov 30         |
-|   [Q4]()  |          Dec 7         |
+|   [Q4](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicVYwbnMxQ2RFa0dIbEp1NVZlVnpxSU9nbUVHQWtkbUVTYWh0cnlqMzVUQzQwdm8xSDRsRHJnRHBSQ3dVRzcwVUd4WUg2S29lejUyVllZb0dxUHd6dks1UjV2Tmg5aTVSQzl1bUhHYjFCb0dmMUFQa09PM3BGZzh5SHB3bjJQV3NiWmRmNjZYN0czZDdSZlhLdnZ3K0xyZUhmbGZzaFVYZDN3SGlidFh1NVZnd1Z1a0RnQzJ0VTBNVDFRT1ZuSEE9IiwiaSI6InVtbWdCUlBPVVovdnJ4MU4ifQ==))  |          Dec 9         |
 
 ## Weekly Activites
 
